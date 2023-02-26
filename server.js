@@ -52,7 +52,7 @@ const products = [
     category: "Apple",
     price: 99999,
     cover:
-      "https://store.ais.co.th/media/catalog/product/i/p/ipad_10.2_inch_wi-fi_space_gray_pdp_image_position-1b__th_2.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg",
   },
 ];
 
